@@ -1,8 +1,3 @@
 streamlit
-pandas
-matplotlib
-seaborn
-folium
-streamlit-folium
-pydeck
-fonttools
+Pillow
+PyMuPDF
